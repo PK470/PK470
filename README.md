@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranav Kini</h1>
-<h3 align="center">DubFlow: Harmonizing Code, Unleashing Innovation</h3>
+<h3 align="center">Harmonizing Code, Unleashing Innovation</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pk470&label=Profile%20views&color=0e75b6&style=flat" alt="pk470" /> </p>
 
